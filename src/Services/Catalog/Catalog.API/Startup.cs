@@ -59,4 +59,3 @@ namespace Catalog.API
         }
     }
 }
-}
